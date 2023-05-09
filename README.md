@@ -15,3 +15,8 @@ git clone https://github.com/Dra-ID/scbf
 cd scbf
 git pull
 python run.py
+```
+# Thanks
+
+Basari-ID
+Vindra-ID
